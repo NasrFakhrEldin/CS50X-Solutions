@@ -1,0 +1,6 @@
+1- Make the function easy to initialize
+2- Get the pyramid height number from the user
+3- Make this number between 1 and 8
+4- If the number is larger or smaller than that, ask the user again for a new number
+5- Initialize function “H” in main function
+6- Make some loops and conditions to get right purpose
